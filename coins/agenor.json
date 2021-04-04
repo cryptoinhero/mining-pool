@@ -1,0 +1,6 @@
+{
+    "name": "Agenor",
+    "symbol": "AGE",
+    "algorithm": "quark",
+    "mposDiffMultiplier": 256
+}
